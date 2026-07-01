@@ -1,0 +1,209 @@
+canonical_identifier: bkk:krp/KR6j0690/v1
+canonical_location: https://kanripo.org/bkk/KR6j0690/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞嚴經玄義
+  identifiers:
+    alt_id:
+    - X13n0282
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X13/X13n0282.xml
+    old_id: X13n0282
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0690_000.yaml, hash: 'sha256:9d5f1e82da5e83d99f3e73b9e1352e78abb4dd509e116bdfdf50bfbae5699ea0'}
+  - {seq: 1, filename: KR6j0690_001.yaml, hash: 'sha256:b677a04226376982a1bba8b4b5791307ca4f04f1d0b5286350ab9f205e4b6b24'}
+  - {seq: 2, filename: KR6j0690_002.yaml, hash: 'sha256:2c57b0c54792f5f11624b24c987b7603b58c52681a1dd5a9360bde5f63fbeced'}
+  - {seq: 3, filename: KR6j0690_003.yaml, hash: 'sha256:d550c147d36db8771d369b0364a623b01c2bc916b482ffee172b250a30883640'}
+  - {seq: 4, filename: KR6j0690_004.yaml, hash: 'sha256:8648af108bbb67ec04bae395b65fb0f9cc9972d5f32b3e5d23e63d346bf5591c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0690_000.markers.yaml, hash: 'sha256:d42a6219fee8f9bd1e1a5dc28af4d3f101a60f1fb0a762a12b8fa1dc9d20043d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0690_001.markers.yaml, hash: 'sha256:4aa735d84aa1d3486f3a9f6332b57f3364f41e0bb6d1961438a194a63200e81a'}
+  - {seq: 2, role: markers, filename: assets/KR6j0690_002.markers.yaml, hash: 'sha256:8e008f590556916f847693b7dc8be04da17504f4df736b35121d2de1b4604823'}
+  - {seq: 3, role: markers, filename: assets/KR6j0690_003.markers.yaml, hash: 'sha256:428050ec82a2e76bbe14fc50c6efc1900f9c5c4eb0aa9a812d067c023000272c'}
+  - {seq: 4, role: markers, filename: assets/KR6j0690_004.markers.yaml, hash: 'sha256:794f88df04b8085694c306e51c027281859d751c66206cb5b4ed98b68066ca68'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0690_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 282-A 楞嚴玄義敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0690_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13260
+  label: 大佛頂首楞嚴經玄義卷第一并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0690_X_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0690_X_001-mulu-2
+    span:
+    - body
+    - 694
+    - 694
+  label: 初釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0690_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 13773
+  label: 大佛頂首楞嚴經玄義卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0690_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 14197
+  label: 大佛頂首楞嚴經玄義卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0690_X_003-mulu-1
+    span:
+    - body
+    - 3187
+    - 3187
+  label: 二辨體
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0690_X_003-mulu-2
+    span:
+    - body
+    - 7808
+    - 7808
+  label: 三明宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0690_X_003-mulu-3
+    span:
+    - body
+    - 13518
+    - 13518
+  label: 四論用
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0690_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 14131
+  label: 大佛頂首楞嚴經玄義卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0690_X_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 五教相
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0690_X_004-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 百問總序
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0690_X_004-mulu-3
+    span:
+    - body
+    - 560
+    - 560
+  label: 先問五章
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0690_X_004-mulu-4
+    span:
+    - body
+    - 2419
+    - 2419
+  label: 次辨時味
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0690_X_004-mulu-5
+    span:
+    - body
+    - 9365
+    - 9365
+  label: 後明八教諸門四悉本迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0690_X_004-mulu-6
+    span:
+    - body
+    - 12504
+    - 12504
+  label: 終推機應以盡疑情
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0690_X_004-mulu-7
+    span:
+    - body
+    - 14020
+    - 14020
+  label: 結語
+  type: mulu
+  level: 1
+hash: sha256:f814749b9242107c155874162bf036ff107dce848a917c711bb80b5be072dfa0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
